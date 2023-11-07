@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nateclaw
 - 👀 I’m interested in ... Halo
-- 🌱 I’m currently learning ... Unity, Unreal Engine, Blender
+- 🌱 I’m currently learning ... Unreal Engine 5, Blender, and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
